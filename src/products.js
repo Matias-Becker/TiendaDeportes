@@ -1,6 +1,5 @@
 export let products = [
   {
-    id: 1,
     title: "Remera Negra",
     price: 10000,
     description: "Liviana y fresca",
@@ -10,7 +9,6 @@ export let products = [
   },
 
   {
-    id: 2,
     title: "Remera Blanca",
     price: 10000,
     description: "Liviana y fresca",
@@ -20,7 +18,6 @@ export let products = [
   },
 
   {
-    id: 3,
     title: "Remera Roja",
     price: 10000,
     description: "Liviana y fresca",
@@ -30,7 +27,6 @@ export let products = [
   },
 
   {
-    id: 4,
     title: "Remera Verde",
     price: 10000,
     description: "Liviana y fresca",
@@ -40,7 +36,6 @@ export let products = [
   },
 
   {
-    id: 5,
     title: "Remera Rosa",
     price: 10000,
     description: "Liviana y fresca",
@@ -50,7 +45,6 @@ export let products = [
   },
 
   {
-    id: 6,
     title: "Remera Azul",
     price: 10000,
     description: "Liviana y fresca",
@@ -60,7 +54,6 @@ export let products = [
   },
 
   {
-    id: 7,
     title: "Zapatillas Nike",
     price: 30000,
     description: "La mayor comodidad",
@@ -70,7 +63,6 @@ export let products = [
   },
 
   {
-    id: 8,
     title: "Zapatillas Adiddas",
     price: 30000,
     description: "La mayor comodidad",
@@ -80,7 +72,6 @@ export let products = [
   },
 
   {
-    id: 9,
     title: "Zapatillas New Balance",
     price: 30000,
     description: "La mayor comodidad",
@@ -90,7 +81,6 @@ export let products = [
   },
 
   {
-    id: 10,
     title: "Zapatillas Puma",
     price: 30000,
     description: "La mayor comodidad",
@@ -100,7 +90,6 @@ export let products = [
   },
 
   {
-    id: 11,
     title: "Zapatillas Topper",
     price: 30000,
     description: "La mayor comodidad",
@@ -110,7 +99,6 @@ export let products = [
   },
 
   {
-    id: 12,
     title: "Zapatillas Kappa",
     price: 30000,
     description: "La mayor comodidad",
@@ -120,7 +108,6 @@ export let products = [
   },
 
   {
-    id: 13,
     title: "Pantalón Puma",
     price: 20000,
     description: "Cómodos y duraderos",
@@ -130,7 +117,6 @@ export let products = [
   },
 
   {
-    id: 14,
     title: "Pantalón Rojo",
     price: 20000,
     description: "Cómodos y duraderos",
@@ -140,7 +126,6 @@ export let products = [
   },
 
   {
-    id: 15,
     title: "Pantalón Azul",
     price: 20000,
     description: "Cómodos y duraderos",
@@ -150,7 +135,6 @@ export let products = [
   },
 
   {
-    id: 16,
     title: "Pantalón Negro",
     price: 20000,
     description: "Cómodos y duraderos",
@@ -160,7 +144,6 @@ export let products = [
   },
 
   {
-    id: 17,
     title: "Pantalón Gris",
     price: 20000,
     description: "Cómodos y duraderos",
@@ -170,7 +153,6 @@ export let products = [
   },
 
   {
-    id: 18,
     title: "Pantalón Azul Linea Roja",
     price: 20000,
     description: "Cómodos y duraderos",
